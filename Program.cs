@@ -3,6 +3,7 @@ using Lab_csharp;
 
 namespace MyApp
 {
+    //Варіант 10
     class Program
     {
         static void Main(string[] args)
